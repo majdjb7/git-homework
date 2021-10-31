@@ -2,3 +2,4 @@ Oak
 Pine
 Almond
 Fig
+Pomegranate
